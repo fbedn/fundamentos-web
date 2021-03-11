@@ -2,6 +2,10 @@
     text-align: center;
 }
 
+.justify {
+    text-align: justify;
+}
+
 .container {
     display: flex;
     flex-flow: row wrap;
@@ -24,10 +28,27 @@
     color: grey;
 }
 
-.border-rdio-2 {
+.border-radio-1 {
     border-radius: 1%;
 }
 
-/*index.html*/
+.padding-20px {
+    padding: 20px;
+}
 
-/*contato.html*/
+.margin-bottom-50px {
+    margin-bottom: 50px; 
+}
+
+.margin-left-50px {
+    margin-left: 50px; 
+}
+
+.w-100 {
+    max-width: 100%;
+}
+
+.logo-redes {
+    width: 35px;
+    height: 35px;
+}
