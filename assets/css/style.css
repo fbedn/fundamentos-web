@@ -13,6 +13,12 @@
     align-items: center;
 }
 
+#menu {
+    border-bottom: 1px solid black;
+    padding-bottom: 12px;
+    padding-left: 12px;
+}
+
 #menu li {
     display: inline;
     padding: 15px;
@@ -22,10 +28,12 @@
 
 #menu li a {
     text-decoration: none;
+    color: black;
 }
 
 #menu li a:hover {
-    color: grey;
+    color: gray;
+    background-color: white;
 }
 
 .border-radio-1 {
