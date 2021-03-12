@@ -60,9 +60,3 @@
     width: 35px;
     height: 35px;
 }
-
-@media only screen and (max-width: 768px) {
-    .abc {
-      background-color: lightblue;
-    }
-}
