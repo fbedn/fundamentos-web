@@ -49,7 +49,7 @@ function validarAssunto() {
 
 function enviar() {
     if (nomeOk == true && emailOk == true && assuntoOk == true) {
-        alert("Formulário enviado com sucesso!");
+        alert("Mensagem enviada com sucesso!");
     }
     else {
         alert("Preencha o formulário corretamente antes de enviar...");
